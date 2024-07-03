@@ -37,14 +37,6 @@ The To-Do List App is a simple, web-based application that helps users manage th
 - **Due Dates:** Allow setting due dates for tasks.
 - **Categories:** Organize tasks by categories or tags.
 
-## Screenshot
-
-![To-Do List Screenshot](screenshot.png)
-
-## Feedback
-
-Feel free to contribute to the project or provide feedback via [info@unifiedmentor.com](mailto:info@unifiedmentor.com).
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
